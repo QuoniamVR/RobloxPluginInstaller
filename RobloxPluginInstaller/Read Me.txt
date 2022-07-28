@@ -1,0 +1,75 @@
+//(C)2022 Quoniam\\
+\\---------------//
+This tool is used for moving Roblox plugins with the extensions: .lua, or .rbxmx
+to the roblox plugins folder.
+
+This was made for paid roblox plugins or for moving your plugin backup to the
+plugins folder.
+
+//HOW TO USE\\
+\\----------//
+You can simply move your plugin to the folder of the .batch file I made and copy the plugin
+NAME and EXTENSION (Either .lua, or .rbxmx)
+
+Now run the .bat file and enter the name and extension of your plugin
+E.G: myplugin.lua OR myplugin.rbxmx
+
+Now press enter and it's done!
+
+Enjoy.
+
+//HOW TO CHECK SOURCE CODE\\
+\\------------------------//
+If this wasn't published by QUONIAM at [https://github.com/QuoniamScripting] then feel free to check
+the source code.
+To do this, simply right click the .bat (BATCH EXECUTABLE) file in this folder and read everything
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lol, Why'd you scroll down here? Anyways, enjoy!
